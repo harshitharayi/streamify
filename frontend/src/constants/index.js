@@ -1,4 +1,4 @@
-  export const THEMES = [
+export const THEMES = [
     {
       name: "light",
       label: "Light",
