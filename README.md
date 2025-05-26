@@ -1,6 +1,8 @@
 # streamify
 A Real time chat and video calling application built for flipr hackathon.
 
+Deployed on render at https://streamify-final.onrender.com
+
 Experience seamless communication on a powerful language exchange platform designed for global interaction and real-time collaboration. This feature-rich application includes: Highlights of the project built during this hacakathon : 
 
 Real-time messaging with live typing indicators and message reactions
